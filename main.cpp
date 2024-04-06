@@ -1,5 +1,5 @@
 /* mbed Microcontroller Library
- * Copyright (c) 2024 ARM Limited
+ * Copyright (c) 2022 ARM Limited
  * SPDX-License-Identifier: Apache-2.0
  */
 
@@ -8,5 +8,6 @@
 
 int main()
 {
-
+    printf("Hello, Mbed!\n");
+    return 0;
 }
